@@ -56,10 +56,15 @@ Belge içinde belge gösterebilmemizi sağlayan etikettir. Genelde başka bir si
 
 ---
 
-## İkinci ders
+## HTML ilk ders
 Index.html dosyamı oluşturup, tarayıcıda görebileceğim bir kod yazdım.
 
 ---
 
-## Üçüncü ders
+## İkinci ders
 Açıklama satırı öğrenildi.
+
+--
+
+## Üçüncü Ders
+Başlıklar ve Paragraflar öğrenildi.
