@@ -58,3 +58,8 @@ Belge içinde belge gösterebilmemizi sağlayan etikettir. Genelde başka bir si
 
 ## İkinci ders
 Index.html dosyamı oluşturup, tarayıcıda görebileceğim bir kod yazdım.
+
+---
+
+## Üçüncü ders
+Açıklama satırı öğrenildi.
