@@ -64,7 +64,22 @@ Index.html dosyamı oluşturup, tarayıcıda görebileceğim bir kod yazdım.
 ## İkinci ders
 Açıklama satırı öğrenildi.
 
---
+---
 
 ## Üçüncü Ders
 Başlıklar ve Paragraflar öğrenildi.
+
+---
+
+## Dördüncü Ders
+* Sıralı ve Sırasız listeler var genelde sırasız listeler kullanılıyor.
+* Sıralı listeler için ol elementi kullanılıyor.
+* Sırasız listeler için ul elementi kullanılıyor.
+* sıralı veya sırasız listeler içerisinde sıralı veya sırasız listeler kullanabiliriz, liste içinde liste gibi.
+* Sıralı listelerde type etiketini kullanarak sıralama seçeneğini değiştirebiliriz rakamdan roma alfabesine çevirmek gibi mesela.
+* Sırasız listelerin başındaki simgeleri style etiketinin içinde list-style-type none diyerek yok edebiliriz.
+* Sırasız listelerin başındaki simgeleri aynı zamanda style etiketini kullanarak list-style-type disc, square ya da circle değiştirebiliriz.
+
+---
+
+## Beşinci Ders
