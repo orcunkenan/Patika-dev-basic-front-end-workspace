@@ -90,3 +90,8 @@ Başlıklar ve Paragraflar öğrenildi.
 * '.' class oluştururken kullanıyoruz. .ilkdiv gibi.
 * '#' id oluştururken kullanıyoruz. #ilkdiv gibi.
 * '*' aynı elementten bir den fazla oluşturmak istediğimizde kullanırız. h1*3 gibi.
+
+---
+
+## Altıncı Ders Image
+* HTML üzerinden local veya network üzerinden img elementini kullanarak imaj dosyası eklemeyi öğrendim.
