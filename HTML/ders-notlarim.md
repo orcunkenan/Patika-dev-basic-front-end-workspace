@@ -105,3 +105,11 @@ Başlıklar ve Paragraflar öğrenildi.
 * a etiketinin içine img dosyası oluşturup linklenebilir bir img dosyası inşa edebiliyoruz.
 * a etiketiyle navbar tasarımında sayfa içinde direkt olarak gidilecek yere yönlendirme yapabiliyoruz.
 * mail veya telefon yönlendirmelerinde de kullanabiliyoruz.
+
+---
+
+## Sekizinci Ders Blok ve Inline elementler
+* Bazı elementler content yani içeriği kadar yer kaplarken (İnline) Bazı elementler ise olduğu yerin genişliği olarak tamamını kaplar (Blok).
+* İnline ve Blok olan elementlere dair bilgiler öğrendim.
+* strong ve em yani kalın ve italik yapma elementlerini öğrendim
+* br ve hr elementlerini öğrendim br bir alt satıra geçiyor hr ise bir alt satıra geçip araya çizgi çekiyor.
