@@ -71,7 +71,7 @@ Başlıklar ve Paragraflar öğrenildi.
 
 ---
 
-## Dördüncü Ders
+## Dördüncü Ders Listeler
 * Sıralı ve Sırasız listeler var genelde sırasız listeler kullanılıyor.
 * Sıralı listeler için ol elementi kullanılıyor.
 * Sırasız listeler için ul elementi kullanılıyor.
@@ -82,4 +82,11 @@ Başlıklar ve Paragraflar öğrenildi.
 
 ---
 
-## Beşinci Ders
+## Beşinci Ders Emmet
+* Etiket isimlerini direkt verebiliyoruz
+* '+' ile kardeş bir element oluşturabiliriz tıpkı şu şekilde h1+h2 veya h1+p gibi.
+* '>' ile bir elementin içine bir element oluşturabiliyoruz.  h1>p veya benzerleri.
+* '^' içinde olduğumuz elementin dışına çıkarak bir element daha oluşturmamıza olanak tanır. div>h1^p gibi.
+* '.' class oluştururken kullanıyoruz. .ilkdiv gibi.
+* '#' id oluştururken kullanıyoruz. #ilkdiv gibi.
+* '*' aynı elementten bir den fazla oluşturmak istediğimizde kullanırız. h1*3 gibi.
