@@ -95,3 +95,13 @@ Başlıklar ve Paragraflar öğrenildi.
 
 ## Altıncı Ders Image
 * HTML üzerinden local veya network üzerinden img elementini kullanarak imaj dosyası eklemeyi öğrendim.
+* Picture etiketi ile sayfa boyutuna gore değişebilen resimler eklemeyi öğrendim.
+* img dosyasına area ve map etiketi ile görselin içine özel linkleme etiketini öğrendim.
+
+---
+
+## Yedinci Ders Linkler
+* HTML de a etiketi ile başka bir sayfaya veya siteye yönlendirme yapabiliyoruz
+* a etiketinin içine img dosyası oluşturup linklenebilir bir img dosyası inşa edebiliyoruz.
+* a etiketiyle navbar tasarımında sayfa içinde direkt olarak gidilecek yere yönlendirme yapabiliyoruz.
+* mail veya telefon yönlendirmelerinde de kullanabiliyoruz.
