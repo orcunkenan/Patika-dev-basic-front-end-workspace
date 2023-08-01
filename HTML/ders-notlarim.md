@@ -119,3 +119,9 @@ Başlıklar ve Paragraflar öğrenildi.
 ## Dokuzuncu Ders Class ve Id
 * Class birden fazla yerde kullanılabilen ve kullanıldığı yerlerde aynı özelliği veren bir sınıftır.
 * Id kimlik numarası gibi özel olarak kullandığımız bir sınıftır, bir elemente id tanımladığımızda sadece o elemente özel olmalıdır.
+
+---
+
+## ONUNCU DERS HTML İskeleti
+* Bir HTML yapısı 3 ana başlıktan oluşur, ilk olarak html etiketi herşeyi içine alır daha sonra head ve body etiketleri gelir head üçüncü kullanıcının görmediği kısmı belirtir, body kısmı ise üçüncü kullanıcının göreceği herşeyin bütünüdür.
+* Genel olarak bilgiler verildi.
