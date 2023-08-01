@@ -114,6 +114,8 @@ Başlıklar ve Paragraflar öğrenildi.
 * strong ve em yani kalın ve italik yapma elementlerini öğrendim
 * br ve hr elementlerini öğrendim br bir alt satıra geçiyor hr ise bir alt satıra geçip araya çizgi çekiyor.
 
+---
+
 ## Dokuzuncu Ders Class ve Id
 * Class birden fazla yerde kullanılabilen ve kullanıldığı yerlerde aynı özelliği veren bir sınıftır.
 * Id kimlik numarası gibi özel olarak kullandığımız bir sınıftır, bir elemente id tanımladığımızda sadece o elemente özel olmalıdır.
