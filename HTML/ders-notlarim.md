@@ -125,3 +125,35 @@ Başlıklar ve Paragraflar öğrenildi.
 ## ONUNCU DERS HTML İskeleti
 * Bir HTML yapısı 3 ana başlıktan oluşur, ilk olarak html etiketi herşeyi içine alır daha sonra head ve body etiketleri gelir head üçüncü kullanıcının görmediği kısmı belirtir, body kısmı ise üçüncü kullanıcının göreceği herşeyin bütünüdür.
 * Genel olarak bilgiler verildi.
+
+---
+
+## ONBIRINCI DERS Semantic etiketler ve kulllanımları
+* Semantik, anlam veya anlamlandırma anlamı ifadesi taşımaktadır. O halde semantik elementler herhangi bir anlamı olan etiketler ifadesi taşımaktadır. Semantik olarak anlamlandırılmış bir element hem tarayıcıya hem geliştiriciye ne anlama geldiğini açık bir şekilde belirtir. ***div ve span*** gibi elementler ***semantik olmayan*** elementlerdir ve mevcut içeriğin hakkında bilgi vermezler. ***form, table ve img gibi elementler semantik elementlerdir*** ve içeriği açıkça belirtirler.
+<br>
+* ***header Elementi***
+header elementi bir doküman veya bir <'section'> için bir başlık olduğunu belirtir. İçinde barındırdığı içeriği kapsayıcı olmalıdır. Bir dokümanda birden fazla kullanılabilir.
+<br>
+* ***nav Elementi***
+nav elementi navigasyon bağlantıları büyük sayfalar için ortaya çıkarılmıştır. Fakat, sayfadaki tüm linkler bu element içinde olmak zorunda değildir.
+<br>
+* ***seciton Elementi***
+section elementi bir dokuman icinde olan sadece bir kismi belirtir.
+<br>
+* ***figure Elementi***
+İçeriğinde resim, gösterim, diyagram, kod listeleri vs. gibi nesnelerin olduğunu belirtir. Ana akış ile ilgili olsa da, konumu ana akıştan tamamen bağımsızdır. Çıkarılırsa dokümanın akışını engellemez.
+<br>
+* ***figcaption Elementi***
+<'figcaption'> etiketi, <'figure'> elementinin belirttiği resme başlık koymaya yarar.
+<br>
+* ***aside Elementi***
+<'aside'> elementi içerdiğinden farklı olarak daha başka bazı içerikleri tanımlar. İçeriği, üst içerik hakkında olmalıdır.
+<br>
+* ***article Elementi***
+<'article'> elementi bir makale elementidir. Bir makale web sayfasının geri kalanından bağımsız olarak dağıtılabilmelidir.
+Genelde bu elementin kullanabildiği yerler forum mesajları, blog gönderileri, haber metinleri, yorumlar gibi makale içeren metinlerdir.
+<br>
+* ***footer Elementi***
+<'footer'> elementi bir doküman ya da kısım için alt bilgilerini belirtir. Bir <'footer'> genelde dokümanın yazarını, telif haklarını, kullanım gizliği, iletisim vs. gibi bilgileri içerir ve bir dokümanda bir kereden fazla kullanılabilir.
+
+---
