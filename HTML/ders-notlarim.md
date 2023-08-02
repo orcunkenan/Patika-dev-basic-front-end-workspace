@@ -128,7 +128,7 @@ Başlıklar ve Paragraflar öğrenildi.
 
 ---
 
-## ONBIRINCI DERS Semantic etiketler ve kulllanımları
+## ON BIRINCI DERS Semantic etiketler ve kulllanımları
 * Semantik, anlam veya anlamlandırma anlamı ifadesi taşımaktadır. O halde semantik elementler herhangi bir anlamı olan etiketler ifadesi taşımaktadır. Semantik olarak anlamlandırılmış bir element hem tarayıcıya hem geliştiriciye ne anlama geldiğini açık bir şekilde belirtir. ***div ve span*** gibi elementler ***semantik olmayan*** elementlerdir ve mevcut içeriğin hakkında bilgi vermezler. ***form, table ve img gibi elementler semantik elementlerdir*** ve içeriği açıkça belirtirler.
 <br>
 * ***header Elementi***
@@ -155,5 +155,9 @@ Genelde bu elementin kullanabildiği yerler forum mesajları, blog gönderileri,
 <br>
 * ***footer Elementi***
 <'footer'> elementi bir doküman ya da kısım için alt bilgilerini belirtir. Bir <'footer'> genelde dokümanın yazarını, telif haklarını, kullanım gizliği, iletisim vs. gibi bilgileri içerir ve bir dokümanda bir kereden fazla kullanılabilir.
+
+---
+
+## ON IKINCI DERS Semantic olmayan etiketlere dair bilgilendirme yapildi.
 
 ---
