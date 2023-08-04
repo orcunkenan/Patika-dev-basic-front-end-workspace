@@ -105,3 +105,26 @@
 * 1em, mevcut yazı tipi boyutuna eşittir. Tarayıcılarda varsayılan metin boyutu 16 pikseldir. Yani, 1em'in varsayılan boyutu 16 pikseldir.
 
 ---
+
+## Dorduncu Ders Class ve Id Kullanimi
+
+* Web sayfamızı oluştururken HTML elementlerimize bazı stil özellikleri eklemek isteriz. Bazı yazıların renkli, bazı resimlerin küçük veya bazı butonların farklı şekilde olması gerekebilir ve biz de bunun için CSS kullanırız.
+
+### Class Kullanimi
+
+* Class seçicisi, HTML üzerinde aynı class’a sahip elemana ulaşmamızı sağlar.
+* Class seçicisi CSS’de . ile belirtilir.
+* Bir class’ı birden fazla HTML elementi için kullanabiliriz.
+* Eğer bir HTML elementinin birden fazla class özelliğine sahip olmasını istiyorsak aynı anda iki farklı class’ı kullanabiliriz. Bunun için sadece iki class arasına boşluk bırakmak yeterli olacaktır.
+* Bir HTML elementi kendini kapsayan elementin (parent elementi) stil özelliklerine sahip olur.
+
+### Id Kullanimi
+
+* ID seçicisi, HTML üzerinde aynı id’ye sahip elemana ulaşmamızı sağlar.
+* ID seçicisi CSS’de # ile belirtilir.
+* ID seçicisinin kullanım amacı olarak class seçicisinden bir farkı yok diyebiliriz. İkisi de belirli HTML elementlerine CSS özellikleri eklemeye yöneliktir. Fakat id seçicisinin class seçicisinden bazı farkları vardır.
+* Bir id’yi sadece bir HTML elementi üzerinde kullanabiliriz.
+* Bir html elementinin sadece bir tane id’si olabilir.
+
+---
+
