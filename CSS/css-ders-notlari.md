@@ -62,3 +62,46 @@
 * Inline yani satır içi stiller, doğrudan HTML kodunuzdaki herhangi bir öğeye uygulanır. Stil niteliği ve ardından normal CSS özellikleri bir HTML etiketi içinde belirtilir.
 
 ---
+
+## Üçüncü Ders Genel Font Özellikleri
+
+* **Serif** yazı tiplerinin her harfin kenarlarında küçük bir kontur vardır. Bir formalite ve zarafet duygusu yaratırlar.
+* **Sans-serif** yazı tiplerinin temiz satırları vardır (küçük konturlar eklenmez). Modern ve minimalist bir görünüm yaratırlar.
+* **Monospace** yazı tipleri burada tüm harfler aynı sabit genişliğe sahiptir. Mekanik bir görünüm yaratırlar.
+* **Cursive** yazı insan el yazısı taklidi gibidir.
+* **Fantasy** yazı tipleri dekoratif, eğlenceli yazı tipleridir.
+
+<br>
+
+* Tüm farklı yazı tipi adları, genel yazı tipi ailelerinden birine aittir.
+
+<br>
+
+* Not: Bilgisayar ekranlarında, sans-serif yazı tiplerinin serif yazı tiplerinden daha kolay okunabileceği kabul edilir.
+<br>
+
+### font-family
+
+* bir metnin yazı tipini belirtmek için özelliği kullanırız.
+
+### font-style
+
+* çoğunlukla italik metnini belirtmek için kullanılır.
+* **normal** Metin normal sekilde gosterilir
+* **italic** Metin italik olarak gosterilir
+* **oblique** Metin egimli gosterilir ama cok desteklenmiyor
+
+### font-size
+
+* font-size metnin boyutunu ayarlar.
+* Metin boyutunu yönetebilmek web tasarımında önemlidir. Bununla birlikte, paragrafların başlık gibi veya başlıkların paragraflara benzemesi için yazı tipi boyutunu ayarlamalısınız. Bunun içinde font-size kullanılır.
+
+* Not: Bir yazı tipi boyutu belirtmezseniz, paragraflar gibi normal metin için varsayılan boyut 16 pikseldir (16px = 1em).
+
+#### Em ile Yazı Tipi Boyutunu Ayarla
+
+* Kullanıcıların metni yeniden boyutlandırmasına izin vermek için (tarayıcı menüsünde), birçok geliştirici piksel yerine em kullanır.
+
+* 1em, mevcut yazı tipi boyutuna eşittir. Tarayıcılarda varsayılan metin boyutu 16 pikseldir. Yani, 1em'in varsayılan boyutu 16 pikseldir.
+
+---
