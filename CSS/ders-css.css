@@ -19,3 +19,15 @@ body{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 /* UCUNCU DERS GENEL FONT OZELLIKLERI */
+
+/* DORDUNCU DERS ID VE CLASS KULLANIMI */
+.h1-text-size{
+    font-size: 50px;
+}
+.s-text-size{
+    font-size: 30px;
+}
+#background-black{
+    background-color: black;
+}
+/* DORDUNCU DERS BITIS */
