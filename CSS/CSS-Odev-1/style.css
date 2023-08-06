@@ -82,3 +82,39 @@ footer {
     padding: 50px;
 }
 /* Footer ends    about-us-footer */
+
+/* Index section starts */
+.column {
+    display: flex;
+    width: 90%;
+    height: auto;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.cards {
+    display: flex;
+    flex-direction: column;
+    width: 33%;
+    height: fit-content;
+    align-items: center;
+    justify-self: center;
+    margin: 10px;
+    border: #eeeeee98 solid 2px;
+    background-color: #00acb5b4;
+    color: #EEEEEE;
+    font-size: 30px;
+    border-radius: 5px;
+}
+.img-in-cards {
+    height: 350px;
+    width: 300px;
+    margin-top: 20px;
+}
+.index-a {
+    text-align:center;
+    text-decoration: none;
+    color: #EEEEEE;
+    margin: 20px;
+}
+/* INDEX SECTION ENDS */
