@@ -31,7 +31,7 @@ nav {
 }
 /* navbar ends */
 
-/* section starts */
+/* section starts about-us-html */
 .about-us-title {
     color:#00ADB5;
     text-align: center;
@@ -49,9 +49,36 @@ article {
     font-family: Arial, Helvetica, sans-serif;
     font-size: larger;
 }
-/* section ends */
+/* section ends about-us-html */
 
-/* footer starts */
+/* footer starts about-us-footer */
 footer {
     background-color: #393E46;
 }
+#footer-article {
+    display: grid;
+    
+}
+#footer-ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    
+}
+.text-decoration-none {
+    text-decoration: none;
+    color: #EEEEEE;
+}  
+#logo {
+    height: 200px;
+    width: 300px;
+    
+}
+.background{
+    background-color: #00ADB5;
+    padding: 50px;
+}
+/* Footer ends    about-us-footer */
